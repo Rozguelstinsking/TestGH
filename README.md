@@ -1,2 +1,3 @@
 # TestGH
-This repo will contains a short project to deploy containuously whit jenkins or minicube
+This repo will contains a short project to continue deployments whit jenkins or minik
+ube
