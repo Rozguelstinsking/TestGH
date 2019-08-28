@@ -1,6 +1,6 @@
 node{
 
-  stage('stage1'){
+  stage('stage0'){
     print('lalalaalalala0')
     checkout scm
   }
@@ -15,7 +15,7 @@ node{
     
     '''
   }
-  stage('stage1'){
+  stage('stage3'){
     print('lalalaalalalal')
     
     sh '''
