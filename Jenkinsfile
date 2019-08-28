@@ -15,6 +15,16 @@ node{
     
     '''
   }
+  stage('stage1'){
+    print('lalalaalalalal')
+    
+    sh '''
+    
+    cat README.md
+    
+    '''
+    
+  }
 
 
 }
